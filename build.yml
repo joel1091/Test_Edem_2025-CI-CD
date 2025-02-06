@@ -28,7 +28,7 @@ substitutions:
   _DATAFLOW_BASE_BUCKET: vehicle_bucket-joel1091
   _DATAFLOW_JOB_NAME: dataflow-job-joel1091
   _DATAFLOW_TEMPLATE_NAME: vehicle_bucket-joel1091
-  _REGION_ID: europe-west1
+  _REGION_ID: europe-southwest1
   _ARTIFACT_REGISTRY_REPOSITORY: image-docker
   _ARTIFACT_REGISTRY_IMAGE_NAME: image-docker
   _DATAFLOW_PYTHON_FILE_PATH: EDEM_Serverless/dataflow/main.py
