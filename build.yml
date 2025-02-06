@@ -31,7 +31,7 @@ substitutions:
   _REGION_ID: europe-southwest1
   _ARTIFACT_REGISTRY_REPOSITORY: image-docker
   _ARTIFACT_REGISTRY_IMAGE_NAME: image-docker
-  _DATAFLOW_PYTHON_FILE_PATH: EDEM_Serverless/dataflow/main.py
+  _DATAFLOW_PYTHON_FILE_PATH: edem_dataflow_pipeline.py
   _DATAFLOW_REQUIREMENTS_FILE_PATH: requirements.txt
   _BATTERY_PUBSUB_SUBSCRIPTION_NAME: projects/steam-circlet-447114-h5/subscriptions/battery_telemetry_topic-sub
   _DRIVING_PUBSUB_SUBSCRIPTION_NAME: projects/steam-circlet-447114-h5/subscriptions/driving_telemetry_topic-sub
